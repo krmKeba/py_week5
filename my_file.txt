@@ -1,0 +1,6 @@
+This is the first line of text.
+The number of items is 42.
+The price of the item is $19.99.
+This is an appended line 1.
+Here is another appended line 2.
+Finally, appended line 3 completes the task.
